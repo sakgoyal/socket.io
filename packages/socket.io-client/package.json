@@ -21,6 +21,7 @@
     "./package.json": "./package.json",
     "./dist/socket.io.js": "./dist/socket.io.js",
     "./dist/socket.io.js.map": "./dist/socket.io.js.map",
+    "./browser": "./dist/socket.io.esm.min.js",
     ".": {
       "import": {
         "types": "./build/esm/index.d.ts",
